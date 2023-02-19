@@ -2,11 +2,17 @@
 PeridexisErrant's DF Walkthrough
 ################################
 
+#################################
+PeridexisErrant's DF 矮人要塞攻略
+#################################
+
 The learning curve for Dwarf Fortress has been described as a spiked
 overhang - but many of us have fought our way up, and have more fun
 than any other game around.  This walkthrough, along with the
 :forums:`DF Starter Pack <126076>`, are my attempts to dangle a rope
 down, as the community first did for me years ago.
+
+:ruby:`矮人要塞 <Dwarf Fortress>` 的学习曲线可以形容为一个陡峭的悬崖，但是已经有许多玩家设法登顶了，并且这个登顶的过程比其他任何游戏都更加有趣。这份攻略，以及 :forums:`DF 新手包 <126076>` 是我尝试为大家递下来的登山绳，正如多年前社区曾经为我所做的那样。
 
 .. _index:
 
