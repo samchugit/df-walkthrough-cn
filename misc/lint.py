@@ -10,7 +10,7 @@ import os
 from os.path import basename, dirname, join, relpath
 import sys
 
-text_extensions = ('rst', 'md', 'txt', 'html', 'css', 'js')
+text_extensions = ('rst', 'txt', 'html', 'css', 'js')
 DIRS = ['chapters', 'tutorials', 'masterclass']
 
 
