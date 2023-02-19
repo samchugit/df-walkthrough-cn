@@ -1,6 +1,8 @@
 /* make sure to sync this with the base theme's css filename */
 @import url("alabaster.css");
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap');
+
 .kbd {
 /* Keybinding CSS from the DF wiki; applies to :kbd:`` directives.
  * Use this directive for all keypresses, to make them look like keys.

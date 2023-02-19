@@ -27,6 +27,7 @@ from time import strftime
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
     'sphinx.ext.extlinks',
+    'sphinxcontrib.textstyle'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -104,6 +105,7 @@ html_theme_options = {
     'description': 'Learning (and losing) can be fun!',
     'github_button': False,
     'show_powered_by': False,
+    'font_family': "'Noto Serif SC', 'Georgia', serif",
 }
 
 # The name for this set of Sphinx documents.
