@@ -1,38 +1,18 @@
-################################
-PeridexisErrant's DF Walkthrough
-################################
+############################
+PeridexisErrant 矮人要塞攻略
+############################
 
-#################################
-PeridexisErrant's DF 矮人要塞攻略
-#################################
-
-The learning curve for Dwarf Fortress has been described as a spiked
-overhang - but many of us have fought our way up, and have more fun
-than any other game around.  This walkthrough, along with the
-:forums:`DF Starter Pack <126076>`, are my attempts to dangle a rope
-down, as the community first did for me years ago.
-
-:ruby:`矮人要塞 <Dwarf Fortress>` 的学习曲线可以形容为一个陡峭的悬崖，但是已经有许多玩家设法登顶了，并且这个登顶的过程比其他任何游戏都更加有趣。这份攻略，以及 :forums:`DF 新手包 <126076>` 是我尝试为大家递下来的登山绳，正如多年前社区曾经为我所做的那样。
+《:ruby:`矮人要塞 <Dwarf Fortress>`》的学习曲线可以用一个陡峭的悬崖来描绘，但是即便如此，还是有许多玩家已经设法登顶，并且登顶的过程比其他任何游戏都更加有趣。这份攻略，以及 :forums:`DF 新手包 <126076>` 是我尝试为大家递下来的登山绳，正如多年前社区曾经为我所做的那样。
 
 .. _index:
 
-The Walkthrough
-===============
-Dwarf Fortress is a rare game:  every time you start a new game, an
-entire world is created anew - everything from geology and weather,
-to the patterns of trade in wheat and wars between jealous kings.
-The fact that there is no script, no standard storyline that every
-player goes through, makes a traditional game walkthrough impossible.
+全流程攻略
+==========
+《矮人要塞》是这样一款少见的游戏：每次你开始新游戏时，整个世界都会重新生成——从地质到小麦的交易模式，从天气到和嫉妒国王之间的战争，一切尽在其中。事实上，这个游戏没有剧本，也没有每个玩家都必须经历的标准故事情节，这使得传统的游戏攻略不复存在。
 
-Instead this is more like a tutorial campaign in a strategy game -
-right down to playing on the same map, if you download the suggested
-package.  You're free to follow along exactly, but also encouraged to
-experiment (and maybe back up your save occasionally).
+相反，这更像是策略游戏中的教程活动。如果你下载上面推荐的新手包，就可以在与这份攻略完全相同的地图中游玩。你既可以完全跟随全流程攻略，又可以按自己的想法进行试验（并时不时保存你的游戏）。
 
-Remember as you play that no matter how skilled you become, without a
-winning condition your fortress will inevitably fail - then pick yourself
-up,  reflect on what you learnt, and recite the motto:  **Losing is Fun!**
-
+请记住，无论你玩得有多熟练，如果没有获胜的条件，你的堡垒将不可避免地失败——然后重新振作，反思你的上次失败，默念座右铭：:ruby:`<strong>失败也是乐趣!</strong> <Losing is Fun!>`
 
 .. toctree::
    :numbered:
@@ -42,18 +22,11 @@ up,  reflect on what you learnt, and recite the motto:  **Losing is Fun!**
    chapters/*
 
 
-Tutorials
-=========
-The walkthrough covers the topics you'll need in every fortress, in just
-enough detail to get you started.  After that, it's your decision what
-to focus on - the options are endless, from beekeeping to soap-making to
-digging too deep, or learning to make and install mods.
+专题教程
+========
+全流程攻略作为帮助你入门的教程已经足够详细了，其中涵盖了你在任何堡垒建设过程中所需要了解的基础知识。在此之后，怎样去深入将由你自由选择——这个选择是无穷无尽的，从养蜂到制作肥皂再到挖向地心，乃至学习制作和安装模组。
 
-Each tutorial is a short, self-contained introduction to a topic which is
-likely to be of interest to players who have just finished the walkthrough.
-And if you're most interested in somthing not listed here,
-:wiki:`the wiki <>` and the Bay12 Forums will be your best friends.
-
+这里的每个教程都是对一个专题进行的简短且独立的介绍，刚完成全流程攻略的玩家可能会对其中的专题感兴趣。假如你感兴趣的主题并没有在此处列出的话，:wiki:`官方 Wiki <>` 和 Bay12 论坛将为你提供最好的帮助。
 
 .. toctree::
    :maxdepth: 1
@@ -62,12 +35,9 @@ And if you're most interested in somthing not listed here,
    tutorials/*
 
 
-Masterclass
-===========
-A masterclass is a tutorial on an advanced topic, aimed at experienced
-players.  You'll be taken through some of the most difficult challenges
-DF offers, and see how an expert does things.
-
+大师课
+======
+大师课是针对高级主题的教程，适用于有经验的玩家。在大师课中，你将会经历 DF 中最困难的一些挑战，进而从中了解高手是如何处理的。
 
 .. toctree::
    :maxdepth: 1
@@ -76,8 +46,8 @@ DF offers, and see how an expert does things.
    masterclass/*
 
 
-Other Information
-=================
+其他信息
+========
 
 .. toctree::
    :maxdepth: 1
@@ -87,19 +57,10 @@ Other Information
    misc/*
 
 
-About
-=====
-The source text and images are `hosted on Github
-<https://github.com/PeridexisErrant/DF-Walkthrough>`_ and the finished site is
-published immediately to `readthedocs.org <https://df-walkthrough.rtfd.org>`_
-every time a change is pushed.
+关于
+====
+源文本和图像托管在 `GitHub <https://github.com/samchugit/df-walkthrough-zh>`_ 上，所有更改都将同步发布到 `readthedocs.org <https://df-walkthrough-zh.readthedocs.io>`_。
 
-This project was inspired by `TinyPirate's DF tutorials
-<http://afteractionreporter.com/dwarf-fortress-tutorials/>`_, which taught
-me to play DF.  The walkthrough started as an update of these tutorials.
-Other content is original or (for some tutorials and most masterclasses)
-links back to the primary source.
+这个项目的灵感来自于教会我玩 DF 的 `TinyPirate 所著的《矮人堡垒》教程 <https://afteractionreporter.com/dwarf-fortress-tutorials/>`_。本攻略最初是作为这些教程的更新。其他内容皆为原创或者已经链接回其原始出处（对于某些教程以及大多数大师课）。
 
-Consider `supporting my work <https://www.patreon.com/PeridexisErrant>`_
-on Patreon.
-
+欢迎在 `Patreon <https://www.patreon.com/PeridexisErrant>`_ 上支持我的工作。

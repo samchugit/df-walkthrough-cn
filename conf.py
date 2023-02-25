@@ -173,8 +173,8 @@ latex_elements = {
 latex_documents = [
       (master_doc,
        'PeridexisErrantsDFWalkthrough.tex',
-       'PeridexisErrant\'s DF Walkthrough Documentation',
-       'PeridexisErrant',
+       'PeridexisErrant 矮人要塞攻略',
+       'PeridexisErrant, Sam Chu',
        'manual'),
 ]
 
@@ -225,7 +225,7 @@ epub_scheme = 'URL'
 
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
-epub_identifier = 'https://df-walkthrough.readthedocs.org'
+epub_identifier = 'https://df-walkthrough-zh.readthedocs.org'
 
 # A unique identification for the text.
 #epub_uid = ''
