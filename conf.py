@@ -102,7 +102,7 @@ html_style = 'dftext.css'
 # documentation.
 html_theme_options = {
     'logo': 'logo.png',
-    'description': 'Learning (and losing) can be fun!',
+    'description': '学习（和失败）可以很有趣！',
     'github_button': False,
     'show_powered_by': False,
     'font_family': "'Noto Serif SC', 'Georgia', serif",
